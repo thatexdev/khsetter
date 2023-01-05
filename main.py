@@ -29,8 +29,8 @@ if not os.path.exists('data.csv'):
     open("data.csv","w")
 APP_ID = 3910389
 API_HASH = "86f861352f0ab76a251866059a6adbd6"
-BOT_TOKEN = "5946967161:AAEA2svPg0Ki6-AbGIIDcVUyh82C1QChhWw"
-UPDATES_CHANNEL = "FreeSexmovi123"
+BOT_TOKEN = "5734510445:AAFlVloFhuAcqhHG6aKZVAQWdgi1cYSOwc0"
+UPDATES_CHANNEL = "tevesexiier"
 OWNER= [5288533304,1669178360]
 PREMIUM= ["Superior_bots", "Superior_Support"]
 vitcim = 'KHSCraperYII'
