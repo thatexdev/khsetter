@@ -29,11 +29,11 @@ if not os.path.exists('data.csv'):
     open("data.csv","w")
 APP_ID = 3910389
 API_HASH = "86f861352f0ab76a251866059a6adbd6"
-BOT_TOKEN = "5807846217:AAGV9iW7VgoZKGUjuNggh38nBX7motOGCko"
-UPDATES_CHANNEL = "freemoviesexii"
+BOT_TOKEN = "5946967161:AAEA2svPg0Ki6-AbGIIDcVUyh82C1QChhWw"
+UPDATES_CHANNEL = "FreeSexmovi123"
 OWNER= [5288533304,1669178360]
 PREMIUM= ["Superior_bots", "Superior_Support"]
-vitcim = 'khsetprotv'
+vitcim = 'KHSCraperYII'
 app = pyrogram.Client("app", api_id=APP_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
 
 with open("data.csv", encoding='UTF-8') as f:
